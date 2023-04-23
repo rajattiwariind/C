@@ -1,5 +1,4 @@
-#include<iostream.h>
-#include<conio.h>
+#include<iostream>
 
 void main()
 
@@ -11,5 +10,5 @@ cout<<"enter 2 numbers";
 cin>>a>>b;
 add=a+b;
 cout<<"addition="<<add;
-getch();
+
 }
