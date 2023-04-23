@@ -1,6 +1,5 @@
-#include<iostream.h>
-#include<conio.h>
-#include<iomanip.h>
+#include<iostream>
+#include<iomanip>
 
 void main()
 
@@ -39,5 +38,5 @@ for(i=0;i<10;i++)
 {
 cout<<a[j]<<endl;
 }
-getch();
+  
 }
