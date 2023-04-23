@@ -1,5 +1,4 @@
-#include<iostream.h>
-#include<conio.h>
+#include<iostream>
 
 int main()
 {
@@ -25,5 +24,5 @@ else if (a==b==c)
 {
 cout<<" all are equal";
 }
-getch();
+
 }
